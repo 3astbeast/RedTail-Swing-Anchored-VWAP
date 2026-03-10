@@ -17,6 +17,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3astbeast/RedTail-Swing-Anchored-VWAP/refs/heads/main/MGC_382Tick_20260310_133239.png" width="1000" alt="RedTail Toolbar Screenshot"/>
+</p>
+
+---
+
 ## Overview
 
 RedTail Swing Anchored VWAP detects swing highs and lows on your chart, then anchors a VWAP from each pivot point using EWMA (Exponentially Weighted Moving Average) smoothing. Unlike traditional cumulative VWAP which weights all bars equally from the anchor, EWMA applies an exponential decay — recent bars carry more weight, producing a smoother, more responsive VWAP that adapts to changing conditions while still respecting the anchor origin.
